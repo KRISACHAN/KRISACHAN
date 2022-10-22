@@ -1,0 +1,2 @@
+- 👋 Hi, I’m kris
+- 👀 I’m a front-end developer

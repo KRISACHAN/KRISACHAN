@@ -1,6 +1,6 @@
-- 👋 你好，我是陈大鱼头
-- 👀 我是一枚前端工程师
-- 💌 我的微信公众号是：鱼头的Web海洋（好久没更新了）
-- 🏡 我的技术博客：[https://blog.krissarea.com/](https://blog.krissarea.com/)
-- 💬 微信号：krisChans95
-- 📧 邮箱：chenjinwen77@gmail.com
+- 👋 Hello, I am Kris
+- 👀 I am a Front-end developer
+- 💌 My life blog: [https://www.krissarea.com/](https://www.krissarea.com/)
+- 💌 My technology blog (full Chinese)：[https://blog.krissarea.com/](https://blog.krissarea.com/)
+- 💬 Wechat：krisChans95
+- 📧 Mall：chenjinwen77@gmail.com

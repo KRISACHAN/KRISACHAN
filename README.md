@@ -1,6 +1,6 @@
 - 👋 Hello, I am Kris
 - 👀 I am a Front-end developer
-- 💌 My life blog: [https://www.krissarea.com/](https://www.krissarea.com/)
+- 💌 My life blog: [https://diary.krissarea.com/](https://diary.krissarea.com/)
 - 💌 My technology blog (full Chinese)：[https://blog.krissarea.com/](https://blog.krissarea.com/)
 - 💬 Wechat：krisChans95
 - 📧 Mall：chenjinwen77@gmail.com

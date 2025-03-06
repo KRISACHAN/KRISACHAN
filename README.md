@@ -6,8 +6,8 @@
 
 ### 📧 About me
 
--   💌 My life blog: [https://diary.krissarea.com/](https://diary.krissarea.com/)
--   💌 My technology blog (full Chinese)：[https://blog.krissarea.com/](https://blog.krissarea.com/)
+-   💌 My Resume: [https://www.krissarea.com/](https://www.krissarea.com/)
+-   💌 My technology blog (full Chinese)：[https://juejin.cn/user/835284564452397](https://juejin.cn/user/835284564452397)
 -   💬 Wechat：krisChans95
 -   📧 Email：[chenjinwen77@gmail.com](mailto:chenjinwen77@gmail.com)
 

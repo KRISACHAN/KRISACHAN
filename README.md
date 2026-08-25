@@ -1,28 +1,24 @@
-# Hi, I'm Kris Chen 👋
+<div align="center">
 
-8+ years experienced Frontend Engineer | React/Vue Specialist
+# Kris Chen
+
+**AI Application Engineer · Full-Stack Engineer**
+
+Building AI products, large-scale web apps, and Node.js services.
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chenjinwen77@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-krissarea.com-4285F4?logo=readme&logoColor=white)](https://www.krissarea.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KRISACHAN-181717?logo=github&logoColor=white)](https://github.com/KRISACHAN)
+
+</div>
 
 ---
 
-### 📧 About me
+<div align="center">
 
--   💌 My Resume: [https://www.krissarea.com/](https://www.krissarea.com/)
--   💌 My technology blog (full Chinese)：[https://juejin.cn/user/835284564452397](https://juejin.cn/user/835284564452397)
--   💬 Wechat：krisChans95
--   📧 Email：[chenjinwen77@gmail.com](mailto:chenjinwen77@gmail.com)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 
----
+</div>
 
-### 🛠 Technology Stack
-
-**Frontend**
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-
-### 📈 GitHub Stats
-
-![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRISACHAN&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRISACHAN&layout=compact)](https://github.com/KRISACHAN)
